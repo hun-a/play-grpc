@@ -1,0 +1,17 @@
+# IntelliJ
+out/
+
+### Intellij ###
+.idea
+
+### Java ###
+*.class
+.kotlin
+.gradle
+build
+
+# Log file
+*.log
+
+### macOS ###
+.DS_Store
